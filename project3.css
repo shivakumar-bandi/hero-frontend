@@ -1,0 +1,68 @@
+html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+.cc:hover{
+    box-shadow: 0px 1px 5px 3px rgba(181,178,178,0.63);
+-webkit-box-shadow: 0px 1px 5px 3px rgba(181,178,178,0.63);
+-moz-box-shadow: 0px 1px 5px 3px rgba(181,178,178,0.63);
+}
+.zz:hover{
+    box-shadow: 0px 1px 5px 4px rgba(0,0,0,0.24);
+-webkit-box-shadow: 0px 1px 5px 4px rgba(0,0,0,0.24);
+-moz-box-shadow: 0px 1px 5px 4px rgba(0,0,0,0.24);
+
+}
+.sh{
+    box-shadow: 1px 1px 5px 1px rgba(161,122,225,0.75);
+-webkit-box-shadow: 1px 1px 5px 1px rgba(161,122,225,0.75);
+-moz-box-shadow: 1px 1px 5px 1px rgba(161,122,225,0.75);
+}
+.sb:hover{
+    box-shadow: 1px 1px 5px 1px rgba(161,122,225,0.75);
+-webkit-box-shadow: 1px 1px 5px 1px rgba(161,122,225,0.75);
+-moz-box-shadow: 1px 1px 5px 1px rgba(161,122,225,0.75);
+}
+.ae:hover{
+    background-color: gray;
+}
+
+    .cc:hover{
+        box-shadow: 0px 1px 5px 3px rgba(181,178,178,0.63);
+    -webkit-box-shadow: 0px 1px 5px 3px rgba(181,178,178,0.63);
+    -moz-box-shadow: 0px 1px 5px 3px rgba(181,178,178,0.63);
+    }
+    .ad:hover{
+        background-color: rgba(178, 170, 170, 0.19);
+    }
+    .aa:hover{
+        box-shadow: 0px 1px 5px 5px rgba(0,0,0,0.24);
+        -webkit-box-shadow: 0px 1px 5px 5px rgba(0,0,0,0.24);
+        -moz-box-shadow: 0px 1px 5px 5px rgba(0,0,0,0.24);
+    }
+    .ae:hover, .shiva:hover{
+        background-color: rgb(252, 223, 223);
+        }
+        .pa:hover{
+            box-shadow: rgba(76, 76, 169, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+        }
+        .pp:hover{
+            background-color: white;
+        }
+        .shiv:hover{
+            opacity: 0.5;
+        }
+        .shiva{
+            position: relative; right: 20px;
+        }
+        .bs{
+            box-shadow: 1px 1px 5px 1px rgba(161,122,225,0.75);
+        -webkit-box-shadow: 1px 1px 5px 1px rgba(161,122,225,0.75);
+        -moz-box-shadow: 1px 1px 5px 1px rgba(161,122,225,0.75);
+        }
+        .bi:hover{
+            opacity: 0.5;
+        }
